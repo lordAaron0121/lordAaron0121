@@ -20,8 +20,8 @@ Email: KLIM104@e.ntu.edu.sg
 
 #### Programming Languages
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="	https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 </div>
@@ -29,17 +29,17 @@ Email: KLIM104@e.ntu.edu.sg
 #### Databases
 <div>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL"/>&nbsp;
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" title="MySQL server" alt="MySQL server"/>&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL" alt="PostgreSQL"/>&nbsp;
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" title="MySQL server" alt="MySQL"/>&nbsp;
 </div>
 
 #### Tools
 <p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/sublime.svg" alt="Sublime" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
-<img src="https://camo.githubusercontent.com/c13034cf5ce18abda1a57109359a1d8656ba197b60a4c8c2bfd9cf95ad4824ca/68747470733a2f2f63646e6c2e74626c7366742e636f6d2f73697465732f64656661756c742f66696c65732f70616765732f7461626c6561756c6f676f5f686967687265732e706e67" title="Tableau" alt="Tableau" width="177.777777778" height="40"/>&nbsp;
+<img src="	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" title="Tableau" alt="Tableau" width="177.777777778" height="40"/>&nbsp;
 </p>
 
 #### Courses <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" title="Udemy" alt="Udemy" width="40" height="40"/>&nbsp;
