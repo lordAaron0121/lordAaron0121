@@ -3,7 +3,12 @@
 I'm Aaron, a Data Science & Artificial Intelligence Sophomore studying at Nanyang Technological University, Singapore. I am working towards my goal on becoming an **analyst** 🚀
 
 ### Let's connect! 
-- LinkedIn: [@limkangwei](https://www.linkedin.com/in/lim-kang-wei)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/lim-kang-wei"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
+  
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Outlook Badge"/>
+</div>
+- LinkedIn: @limkangwei
 - Email: KLIM104@e.ntu.edu.sg
 
 ### I'm working on Supply Chain Projects:
