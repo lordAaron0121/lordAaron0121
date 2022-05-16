@@ -5,11 +5,7 @@ I'm Aaron, a Data Science & Artificial Intelligence Sophomore studying at Nanyan
 ### Let's connect! 
 <div id="badges">
   <a href="https://www.linkedin.com/in/lim-kang-wei"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
-  
-  <img src="https://img.shields.io/badge/Outlook-white?style=for-the-badge&logo=outlook&logoColor=white" alt="Outlook Badge"/>
-</div>
-- LinkedIn: @limkangwei
-- Email: KLIM104@e.ntu.edu.sg
+Email: KLIM104@e.ntu.edu.sg
 
 ### I'm working on Supply Chain Projects:
 #### Inventory Management for Retail 🛒
