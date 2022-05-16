@@ -35,5 +35,6 @@ Email: KLIM104@e.ntu.edu.sg
 #### Text editors
 <p align="left">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/sublime.svg" alt="Sublime" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+
 </p>
