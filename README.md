@@ -25,5 +25,10 @@ I'm Aaron, a Data Science & Artificial Intelligence Sophomore studying at Nanyan
 <p align="left">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
+</p>
 
+#### Text editors
+<p align="left">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/sublime.svg" alt="Sublime" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
