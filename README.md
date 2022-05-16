@@ -5,6 +5,7 @@ I'm Aaron, a Data Science & Artificial Intelligence Sophomore studying at Nanyan
 ### Let's connect! 
 <div id="badges">
   <a href="https://www.linkedin.com/in/lim-kang-wei"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
+  <a href="https://public.tableau.com/app/profile/lim.kang.wei"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau Badge"/> </a>
   <a href="KLIM104@e.ntu.edu.sg"> <https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Badge"/> </a>
   
 Email: KLIM104@e.ntu.edu.sg
