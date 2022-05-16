@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Greetings!😇)](https://git.io/typing-svg)
 
-I'm Aaron, a Data Science & Artificial Intelligence Sophomore studying at Nanyang Technological University, Singapore. I am working towards my goal on becoming an **analyst**.
+I'm Aaron, a Data Science & Artificial Intelligence Sophomore studying at Nanyang Technological University, Singapore. I am working towards my goal on becoming an **analyst** 🚀
 
 ### Let's connect! 
 - LinkedIn: [@limkangwei](https://www.linkedin.com/in/lim-kang-wei)
