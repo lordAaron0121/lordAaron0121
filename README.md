@@ -35,11 +35,11 @@ Email: KLIM104@e.ntu.edu.sg
 
 #### Tools
 <p align="left">
-<img src="	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime" height="40" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" title="Tableau" alt="Tableau" width="177.777777778" height="40"/>&nbsp;
+<img src="	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="VS Code" alt="VS Code" />&nbsp;
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" title="Jupyter" alt="Jupyter" />&nbsp;
+<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" title="Excel" alt="Excel"/>&nbsp;
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" title="Tableau" alt="Tableau" />&nbsp;
 </p>
 
 #### Courses <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" title="Udemy" alt="Udemy" width="40" height="40"/>&nbsp;
