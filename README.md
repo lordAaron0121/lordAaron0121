@@ -5,7 +5,7 @@ I'm Aaron, a Data Science & Artificial Intelligence Sophomore studying at Nanyan
 ### Let's connect! 
 <div id="badges">
   <a href="https://www.linkedin.com/in/lim-kang-wei"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
-  <a href="KLIM104@e.ntu.edu.sg"> <img src="https://img.shields.io/badge/Outlook-white?style=for-the-badge&logo=outlook&logoColor=white" alt="LinkedIn Badge"/> </a>
+  <a href="KLIM104@e.ntu.edu.sg"> <img src="https://github.com/sempostma/office365-icons/blob/master/png/256/outlook.png" alt="Outlook Badge"/> </a>
   
 Email: KLIM104@e.ntu.edu.sg
 <img src="https://komarev.com/ghpvc/?username=lordAaron0121&style=flat-square&color=blue" alt=""/>
@@ -36,8 +36,7 @@ Email: KLIM104@e.ntu.edu.sg
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-<img src="https://camo.githubusercontent.com/c13034cf5ce18abda1a57109359a1d8656ba197b60a4c8c2bfd9cf95ad4824ca/68747470733a2f2f63646e6c2e74626c7366742e636f6d2f73697465732f64656661756c742f66696c65732f70616765732f7461626c6561756c6f676f5f686967687265732e706e67" title="Tableau" alt="cant find" width="177.777777778" height="40"/>&nbsp;
-  
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/sublime.svg" alt="Sublime" height="40" style="vertical-align:top; margin:4px">
-
+<img src="https://camo.githubusercontent.com/c13034cf5ce18abda1a57109359a1d8656ba197b60a4c8c2bfd9cf95ad4824ca/68747470733a2f2f63646e6c2e74626c7366742e636f6d2f73697465732f64656661756c742f66696c65732f70616765732f7461626c6561756c6f676f5f686967687265732e706e67" title="Tableau" alt="Tableau" width="177.777777778" height="40"/>&nbsp;
+<img src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" title="Excel" alt="Excel" width="177.777777778" height="40"/>&nbsp;
 </p>
