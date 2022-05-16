@@ -6,7 +6,7 @@ I'm Aaron, a Data Science & Artificial Intelligence Sophomore studying at Nanyan
 - LinkedIn: [@limkangwei](https://www.linkedin.com/in/lim-kang-wei)
 - Email: KLIM104@e.ntu.edu.sg
 
-### I've shared my insights about
+### I'm working on Supply Chain Projects:
 #### Inventory Management for Retail 🛒
 - Inventory Management for Retail — Deterministic Demand: [Github Repository](https://github.com/lordAaron0121/Supply-Chain-Optimization/tree/main/Inventory%20Management%20for%20Retail%20%E2%80%94%20Deterministic%20Demand)
 
@@ -16,7 +16,7 @@ I'm Aaron, a Data Science & Artificial Intelligence Sophomore studying at Nanyan
 
 #### Programming Languages
 <p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
