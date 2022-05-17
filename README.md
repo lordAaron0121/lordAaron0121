@@ -47,7 +47,7 @@ Email: KLIM104@e.ntu.edu.sg
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" title="Tableau" alt="Tableau" />&nbsp;
 </p>
 
-#### <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" title="Udemy" alt="Udemy" />&nbsp; 
+#### Course completed on <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" title="Udemy" alt="Udemy" />&nbsp; 
 - [TABLEAU 20 ADVANCED TRAINING: MASTER TABLEAU IN DATA SCIENCE](https://www.udemy.com/certificate/UC-5425a5c3-bd0e-4eeb-b3e3-2d932a973d3a/)
 - [SQL - MYSQL FOR DATA ANALYTICS AND BUSINESS INTELLIGENCE ](https://www.udemy.com/certificate/UC-e223b53f-112f-4416-9d85-8bd76fcc6a3a/)
 - [MICROSOFT EXCEL ADVANCED: THE DATA ANALYSIS TOOLS YOU NEED](https://www.udemy.com/certificate/UC-b62150f9-0bb8-4d55-9d71-1ab87a03a430/)
