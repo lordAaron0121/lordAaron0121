@@ -60,3 +60,5 @@ Email✉️: KLIM104@e.ntu.edu.sg
 
 #### My Github stats 🔥
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lordAaron0121&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordAaron0121&count_private=true&theme=dark&text_color=fa8b00)](https://github.com/anuraghazra/github-readme-stats)
+
