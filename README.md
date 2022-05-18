@@ -11,7 +11,8 @@ I'm Aaron, a Data Science & Artificial Intelligence Sophomore studying at Nanyan
 Email✉️: KLIM104@e.ntu.edu.sg 
 <img src="https://komarev.com/ghpvc/?username=lordAaron0121&style=flat-square&color=blue" alt=""/>
 
-### I'm working on Supply Chain Projects💪
+### I'm working on Supply Chain Projects💪: [Github Repository]([https://github.com/lordAaron0121/Supply-Chain-Optimization/tree/main/Inventory%20Management%20for%20Retail%20%E2%80%94%20Deterministic%20Demand](https://github.com/lordAaron0121/Supply-Chain-Optimization))
+    
 #### Inventory Management for Retail 🛒
 - Inventory Management for Retail — Deterministic Demand: [Github Repository](https://github.com/lordAaron0121/Supply-Chain-Optimization/tree/main/Inventory%20Management%20for%20Retail%20%E2%80%94%20Deterministic%20Demand)
 
