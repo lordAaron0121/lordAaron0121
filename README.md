@@ -8,10 +8,11 @@ I'm Aaron, a Data Science & Artificial Intelligence Sophomore studying at Nanyan
   <a href="https://public.tableau.com/app/profile/lim.kang.wei"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau Badge"/> </a>
   <a href="KLIM104@e.ntu.edu.sg"> <https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Badge"/> </a>
   
+#### Glad to see you here! <img src="https://komarev.com/ghpvc/?username=lordAaron0121&style=flat-square&color=blue" alt=""/>
 Email✉️: KLIM104@e.ntu.edu.sg 
-<img src="https://komarev.com/ghpvc/?username=lordAaron0121&style=flat-square&color=blue" alt=""/>
 
-### I'm working on Supply Chain Projects💪: [Github Repository]([https://github.com/lordAaron0121/Supply-Chain-Optimization/tree/main/Inventory%20Management%20for%20Retail%20%E2%80%94%20Deterministic%20Demand](https://github.com/lordAaron0121/Supply-Chain-Optimization))
+    
+### I'm working on Supply Chain Projects💪: [Github Repository](https://github.com/lordAaron0121/Supply-Chain-Optimization)
     
 #### Inventory Management for Retail 🛒
 - Inventory Management for Retail — Deterministic Demand: [Github Repository](https://github.com/lordAaron0121/Supply-Chain-Optimization/tree/main/Inventory%20Management%20for%20Retail%20%E2%80%94%20Deterministic%20Demand)
@@ -56,3 +57,6 @@ Email✉️: KLIM104@e.ntu.edu.sg
 - [TABLEAU 20 ADVANCED TRAINING: MASTER TABLEAU IN DATA SCIENCE](https://www.udemy.com/certificate/UC-5425a5c3-bd0e-4eeb-b3e3-2d932a973d3a/)
 - [SQL - MYSQL FOR DATA ANALYTICS AND BUSINESS INTELLIGENCE ](https://www.udemy.com/certificate/UC-e223b53f-112f-4416-9d85-8bd76fcc6a3a/)
 - [MICROSOFT EXCEL ADVANCED: THE DATA ANALYSIS TOOLS YOU NEED](https://www.udemy.com/certificate/UC-b62150f9-0bb8-4d55-9d71-1ab87a03a430/)
+
+#### My Github stats 🔥
+<img height="180em" src="https://github-readme-stats.vercel.app/apiloardAaron0121Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
