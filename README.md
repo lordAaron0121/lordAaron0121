@@ -59,4 +59,5 @@ Email✉️: KLIM104@e.ntu.edu.sg
 - [MICROSOFT EXCEL ADVANCED: THE DATA ANALYSIS TOOLS YOU NEED](https://www.udemy.com/certificate/UC-b62150f9-0bb8-4d55-9d71-1ab87a03a430/)
 
 #### My Github stats 🔥
-<img height="180em" src="https://github-readme-stats.vercel.app/apiloardAaron0121Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-loardAaron0121&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-loardAaron0121)](https://github.com/anuraghazra/github-readme-stats)
