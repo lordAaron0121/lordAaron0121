@@ -17,8 +17,8 @@ Email✉️: KLIM104@e.ntu.edu.sg
 - Supply Chain Management 🏭
 - Supply Chain Transactional Processes Automation (RPA) 🤖
 - Supply Chain Sustainability 🌲
-- Logistics Continuous Improvement 🧑‍💼
-Do check it out at: [Github Repository](https://github.com/lordAaron0121/Supply-Chain-Optimization) 😎
+- Logistics Continuous Improvement 🧑‍💼 <br>
+Do check them out at: [Github Repository](https://github.com/lordAaron0121/Supply-Chain-Optimization) 😎
 
 #### Programming Languages 
 <div>
