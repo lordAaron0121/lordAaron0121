@@ -10,7 +10,6 @@ I'm Aaron, a Data Science & Artificial Intelligence Sophomore studying at Nanyan
   
 #### <img src="https://komarev.com/ghpvc/?username=lordAaron0121&style=flat-square&color=blue" alt=""/>
 Email✉️: KLIM104@e.ntu.edu.sg 
-
     
 ### I'm working on Supply Chain Projects💪, which covers:
 - Supply Chain Optimization 🛒
@@ -50,7 +49,8 @@ Do check them out at: [Github Repository](https://github.com/lordAaron0121/Suppl
 - [TABLEAU 20 ADVANCED TRAINING: MASTER TABLEAU IN DATA SCIENCE](https://www.udemy.com/certificate/UC-5425a5c3-bd0e-4eeb-b3e3-2d932a973d3a/)
 - [SQL - MYSQL FOR DATA ANALYTICS AND BUSINESS INTELLIGENCE ](https://www.udemy.com/certificate/UC-e223b53f-112f-4416-9d85-8bd76fcc6a3a/)
 - [MICROSOFT EXCEL ADVANCED: THE DATA ANALYSIS TOOLS YOU NEED](https://www.udemy.com/certificate/UC-b62150f9-0bb8-4d55-9d71-1ab87a03a430/)
-
+- [MANAGE FINANCE DATA WITH PYTHON & PANDAS: UNIQUE MASTERCLASS](https://www.udemy.com/certificate/UC-559dcf54-a52a-4cf7-84de-31222e568dde/)
+    
 #### My Github stats 🔥
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lordAaron0121&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordAaron0121&count_private=true&theme=dark&text_color=fa8b00)](https://github.com/anuraghazra/github-readme-stats)
