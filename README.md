@@ -17,7 +17,7 @@ Email✉️: KLIM104@e.ntu.edu.sg
 - Supply Chain Transactional Processes Automation (RPA) 🤖
 - Supply Chain Sustainability 🌲
 - Logistics Continuous Improvement 🧑‍💼 <br>
-Do check them out at: [Github Repository](https://github.com/lordAaron0121/Supply-Chain-Optimization) 😎
+Do check them out at: [Github Repository](https://github.com/lordAaron0121/Supply-Chain-Optimization) (Currently this repo is still private, email me at: KLIM1O4@e.ntu.edu.sg if you want to know more) 😇
 
 #### Programming Languages 
 <div>
@@ -50,6 +50,8 @@ Do check them out at: [Github Repository](https://github.com/lordAaron0121/Suppl
 - [SQL - MYSQL FOR DATA ANALYTICS AND BUSINESS INTELLIGENCE ](https://www.udemy.com/certificate/UC-e223b53f-112f-4416-9d85-8bd76fcc6a3a/)
 - [MICROSOFT EXCEL ADVANCED: THE DATA ANALYSIS TOOLS YOU NEED](https://www.udemy.com/certificate/UC-b62150f9-0bb8-4d55-9d71-1ab87a03a430/)
 - [MANAGE FINANCE DATA WITH PYTHON & PANDAS: UNIQUE MASTERCLASS](https://www.udemy.com/certificate/UC-559dcf54-a52a-4cf7-84de-31222e568dde/)
+- [Machine Learning A-Z™: Hands-On Python & R In Data Science
+](https://www.udemy.com/certificate/UC-e7af038b-a83a-403f-a0a0-20831d3edb3a/)
     
 #### My Github stats 🔥
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lordAaron0121&theme=dark&background=000000)](https://git.io/streak-stats)
