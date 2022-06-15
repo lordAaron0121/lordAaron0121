@@ -33,13 +33,15 @@ Do check them out at: [Github Repository](https://github.com/lordAaron0121/Suppl
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL"/>&nbsp;
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" title="MySQL server" alt="MySQL server"/>&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL" alt="PostgreSQL"/>&nbsp;
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" title="AWS" alt="AWS"/>&nbsp;
 </div>
-
+   
 #### Tools 
 <p align="left">
 <img src="https://camo.githubusercontent.com/42ada9cc774b9d2b4cf35691820a881d70657ae42c3a074f00c7e9add6352361/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465" title="VS Code" alt="VS Code" />&nbsp;
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" title="Jupyter" alt="Jupyter" />&nbsp;
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime" />&nbsp;
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />&nbsp;    
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" title="Excel" alt="Excel"/>&nbsp;
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" title="Tableau" alt="Tableau" />&nbsp;
 </p>
@@ -53,3 +55,5 @@ Do check them out at: [Github Repository](https://github.com/lordAaron0121/Suppl
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lordAaron0121&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordAaron0121&count_private=true&theme=dark&text_color=fa8b00)](https://github.com/anuraghazra/github-readme-stats)
 
+#### Resources
+- [Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile#-cloud-)
