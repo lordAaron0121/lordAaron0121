@@ -19,6 +19,11 @@ Email✉️: KLIM104@e.ntu.edu.sg
 - Logistics Continuous Improvement 🧑‍💼 <br>
 Do check them out at: [Github Repository](https://github.com/lordAaron0121/Supply-Chain-Optimization) (Currently this repo is still private, email me at: KLIM1O4@e.ntu.edu.sg if you want to know more) 😇
 
+### View my achievements on:
+- [Stratascratch](https://platform.stratascratch.com/user/lord_aaron_0121)
+- [Codewars](https://www.codewars.com/users/lordAaron0121)
+- [Leetcode](https://leetcode.com/kangweilim303/)
+    
 #### Programming Languages 
 <div>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title="Python" alt="Python" />&nbsp;
