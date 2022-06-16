@@ -19,7 +19,7 @@ Email✉️: KLIM104@e.ntu.edu.sg
 - Logistics Continuous Improvement 🧑‍💼 <br>
 Do check them out at: [Github Repository](https://github.com/lordAaron0121/Supply-Chain-Optimization) 😇
 
-### View my achievements on:
+### View my achievements on: 😉
 - [Stratascratch](https://platform.stratascratch.com/user/lord_aaron_0121)
 - [Codewars](https://www.codewars.com/users/lordAaron0121)
 - [Leetcode](https://leetcode.com/kangweilim303/)
