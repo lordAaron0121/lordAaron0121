@@ -17,7 +17,7 @@ Email✉️: KLIM104@e.ntu.edu.sg
 - Supply Chain Transactional Processes Automation (RPA) 🤖
 - Supply Chain Sustainability 🌲
 - Logistics Continuous Improvement 🧑‍💼 <br>
-Do check them out at: [Github Repository](https://github.com/lordAaron0121/Supply-Chain-Optimization) (Currently this repo is still private, email me at: KLIM104@e.ntu.edu.sg if you want to know more) 😇
+Do check them out at: [Github Repository](https://github.com/lordAaron0121/Supply-Chain-Optimization) 😇
 
 ### View my achievements on:
 - [Stratascratch](https://platform.stratascratch.com/user/lord_aaron_0121)
