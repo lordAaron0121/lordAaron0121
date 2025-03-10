@@ -57,10 +57,4 @@ Do check them out at: [Github Repository](https://github.com/lordAaron0121/Suppl
 - [MANAGE FINANCE DATA WITH PYTHON & PANDAS: UNIQUE MASTERCLASS](https://www.udemy.com/certificate/UC-559dcf54-a52a-4cf7-84de-31222e568dde/)
 - [Machine Learning A-Z™: Hands-On Python & R In Data Science
 ](https://www.udemy.com/certificate/UC-e7af038b-a83a-403f-a0a0-20831d3edb3a/)
-    
-#### My Github stats 🔥
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lordAaron0121&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordAaron0121&count_private=true&theme=dark&text_color=fa8b00)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Resources
-- [Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile#-cloud-)
